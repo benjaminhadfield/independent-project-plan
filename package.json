@@ -1,0 +1,23 @@
+{
+  "name": "plan",
+  "version": "1.0.0",
+  "description": "Site detailing plans and current state of my individual project.",
+  "main": "index.js",
+  "author": "Ben Hadfield",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.13",
+    "material-ui-icons": "^1.0.0-beta.15",
+    "next": "^3.2.2",
+    "react": "15",
+    "react-dom": "15"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
